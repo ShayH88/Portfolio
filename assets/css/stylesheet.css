@@ -52,7 +52,13 @@ footer {
 }
 
 #myprojects {
+               left: 0;
+
+}
 
 
+.video {
+
+    width: 54vw;
 }
 
