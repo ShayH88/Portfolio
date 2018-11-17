@@ -37,7 +37,8 @@ h3 {
 }
 
 #formshay {
-            margin-top: 15%;
+            margin-top: 75px;
+            margin-bottom: 100px;
 
 }
 
@@ -60,5 +61,10 @@ footer {
 .video {
 
     width: 54vw;
+}
+
+.shayquote{
+
+font-size: 20px;
 }
 
