@@ -58,13 +58,16 @@ footer {
 }
 
 
-.video {
 
-    width: 54vw;
-}
 
 .shayquote{
 
 font-size: 20px;
+}
+
+.shaystudioweb{
+
+    width: 40%;
+    margin-top: 100px;
 }
 
