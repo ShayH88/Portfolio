@@ -1,25 +1,16 @@
 body {
-
     font-family: 'Marcellus SC', serif;
 }
 
-
-
-
-
-
 h1 {
-
     text-align: center;
 }
 
 .shay {
-
   width: 40%; 
 }
 
 .imgshay {
-
     width: 80%;
     margin-top: 5%;
 }
@@ -28,45 +19,32 @@ h1 {
     margin-bottom: 10%;
     margin-top: 15%;
     font-size: 150%;
-    
 }
 
 h3 {
-
     text-align: center;
 }
 
 #formshay {
             margin-top: 75px;
             margin-bottom: 100px;
-
 }
 
 footer {
-    
     left: 0;
     bottom: 0;
-    width: 100%;
-    
-    
-    
+    width: 100%;    
 }
 
 #myprojects {
                left: 0;
-
 }
 
-
-
-
 .shayquote{
-
 font-size: 20px;
 }
 
 .shaystudioweb{
-
     width: 40%;
     margin-top: 100px;
 }
