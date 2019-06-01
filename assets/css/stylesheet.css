@@ -6,15 +6,6 @@ h1 {
     text-align: center;
 }
 
-.shay {
-  width: 40%; 
-}
-
-.imgshay {
-    width: 80%;
-    margin-top: 5%;
-}
-
 .pshay {
     margin-bottom: 10%;
     margin-top: 15%;
@@ -36,19 +27,7 @@ footer {
     width: 100%;    
 }
 
-#myprojects {
-               left: 0;
-}
-
 .shayquote{
 font-size: 20px;
 }
 
-.shaystudioweb{
-    width: 40%;
-    margin-top: 100px;
-}
-
-i {
-    margin-right: 70%;
-}
